@@ -11,16 +11,18 @@
 # You must not leave them as blank!
 # ===========================================================================
 Version: "1.7.5" # Don't change this!
-BotToken: "BOT_TOKEN" # If you need help getting your BotToken please open a ticket here: http://discord.drakodevelopment.net
-LicenseKey: "LICENSE_KEY" # Join our discord server and create a ticket to get a license key! http://discord.drakodevelopment.net
-mongoURI: "MONGO_URI"
-GuildID: "GUILD_ID" # This is your server's ID, Right click on your server icon and copy ID
-BotName: "Drako Bot"
-LogCommands: false
+BotToken: "MTI2NzY1NzM1OTE2MjA4MTM2Mw.GdugoL.SBMzHZcIuL0IVnFj-eXHP5QnAliRT4wmcE-HFs" # If you need help getting your BotToken please open a ticket here: http://discord.drakodevelopment.net
+LicenseKey: "RD6C-VEHE-CJ2R-I6OE" # Join our discord server and create a ticket to get a license key! http://discord.drakodevelopment.net
+mongoURI: "mongodb+srv://twiggy000b:Angamer246@cluster0.de2uim6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+"
+GuildID: "1255639763482841099" # This is your server's ID, Right click on your server icon and copy ID
+BotName: "CreamBot"
+LogCommands: true
 Statistics: true # Show statistics in terminal when the bot starts? (This does not affect the stats command or anything else)
 Timezone: "America/New_York" # Use https://gist.github.com/diogocapela/12c6617fc87607d11fd62d2a4f42b02a 
 
-EmbedColors: "#FFA500"
+EmbedColors: "#9900ff"
 SuccessEmbedColor: "#2ecc71"
 ErrorEmbedColor: "#E74C3C"
 
